@@ -26,15 +26,15 @@ module.exports = {
     const [count] = await connection("lembretes").count(); //contador total de lembretes
 
     const lembretes = await connection("lembretes")
-      .limit(5)
-      .offset((page - 1) * 5)
+      // .limit(5)
+      // .offset((page - 1) * 5)
       .select("*");
 
     res.header("X-Total-Count", count["count(*)"]);
     return res.json(lembretes);
   },
 
-  
+
   //Delete a reminder
   async delete(req, res) {
     const { id } = req.params;
