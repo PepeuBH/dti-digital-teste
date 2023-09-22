@@ -1,6 +1,5 @@
 const connection = require("../database/connection");
 const crypto = require("crypto");
-// const validateDate = require("validate-date");
 
 module.exports = {
   //Create a reminder

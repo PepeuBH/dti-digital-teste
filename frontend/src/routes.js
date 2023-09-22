@@ -1,16 +1,15 @@
 import React from "react";
-import { BrowserRouter as Router , Routes, Route} from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Reminder from "./pages/Reminders";
 
-const AppRoutes = () =>  {
+const AppRoutes = () => {
   return (
-        <Router>
-            <Routes>
-                <Route path="/" exact element={<Reminder/>}></Route>
-
-            </Routes>
-        </Router>
+    <Router>
+      <Routes>
+        <Route path="/" exact element={<Reminder />}></Route>
+      </Routes>
+    </Router>
   );
-}
+};
 
 export default AppRoutes;

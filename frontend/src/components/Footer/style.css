@@ -1,0 +1,8 @@
+.footer-div {
+  background-color: rgb(177, 182, 187, 0.3);
+  margin: 5px auto;
+  width: 70%;
+  border-radius: 5px;
+  padding: 10px;
+  text-align: center;
+}
