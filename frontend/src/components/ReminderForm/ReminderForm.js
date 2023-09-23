@@ -33,7 +33,7 @@ export default function ReminderForm() {
         <h2>Novo Lembrete</h2>
         <br />
         <form className="reminder-form" onSubmit={handleSubmit}>
-          <label for="description">Nome</label>
+          <label for="description">Descrição</label>
           <input
             placeholder="Ex: Passear com o cachorro"
             type="textarea"

@@ -209,3 +209,11 @@ referente àquele dia; caso não, um novo dia deverá ser exibido, contendo aque
 - Após a entrega do resultado do seu teste prático pedimos 7 dias para correção e envio ou do feedback personalizado ou comunicação sobre os próximos passos do processo seletivo.
 
 ## Boa sorte!
+
+## O que foi construído
+
+![Alt text](image-4.png)
+
+![Alt text](image-5.png)
+
+![Alt text](image-1.png)
