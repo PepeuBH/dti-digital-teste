@@ -2,6 +2,7 @@
 **🚀 Repositório da prova prática para processo seletivo da Dti Digital**
 
 - [Funcionalidades](#funcionalidades)
+- [Tecnologias](#tecnologias)
 - [Requisitos](#requisitos)
 - [Configuração](#configuracao)
 - [Rotas](#rotas)
@@ -17,6 +18,21 @@ O Sistema possui as seguintes funcionalidades principais:
 - Vizualizar a lista de todos os lembretes criados, separados por data em ordem cronológica
 
 - Permitir a exclusão de lembretes
+
+## <a id="tecnologias"></a> 👨‍💻 Tecnologias Utilizadas
+
+- NodeJs
+
+- React
+
+- Javascript
+
+- SQLite3
+
+- Git & Github
+
+- Insomnia
+
 
 ## <a id="requisitos"></a>🔨 Requisitos
 
@@ -162,7 +178,7 @@ formalizar sua resposta do nosso teste prático ai RH.
 
 ### O que deve ser construído
 Você deverá desenvolver um sistema de criação de lembretes, seguindo a ideia abaixo:
-![Alt text](image.png)
+![Alt text](./readmeImages/image.png)
 
 Lembrando que a imagem é ilustrativa.
 
@@ -212,8 +228,8 @@ referente àquele dia; caso não, um novo dia deverá ser exibido, contendo aque
 
 ## O que foi construído
 
-![Alt text](image-4.png)
+![Alt text](./readmeImages/image-4.png)
 
-![Alt text](image-5.png)
+![Alt text](./readmeImages/image-5.png)
 
-![Alt text](image-1.png)
+![Alt text](./readmeImages/image-1.png)
