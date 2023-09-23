@@ -6,8 +6,9 @@
 - [Requisitos](#requisitos)
 - [Configuração](#configuracao)
 - [Rotas](#rotas)
+- [Descrição do desafio](#descrição)
+- [Minha Solução](#minhaSolucao)
 - [Contato](#contato)
-- [Descrição do desafio](#Descrição)
 
 ## <a id="funcionalidades"></a> ✨ Funcionalidades
 
@@ -129,11 +130,7 @@ A API possui as seguintes rotas disponíveis:
 
     - Utilize o Postman/Insomnia para testar as rotas sem o frontend
 
-## <a id="contato"></a>📧 Contato
-
-Se você tiver alguma dúvida ou sugestão em relação a este projeto, entre em contato comigo pelo [Linkedin](https://www.linkedin.com/in/pedro-talma-toledo/)
-
-## <a id="Descrição"></a> Descrição do desafio
+## <a id="descrição"></a> Descrição do desafio
 
 ### Instruções gerais
 
@@ -226,10 +223,14 @@ referente àquele dia; caso não, um novo dia deverá ser exibido, contendo aque
 
 ## Boa sorte!
 
-## O que foi construído
+## <a id="minhaSolucao"></a> O que foi construído
 
 ![Alt text](./readmeImages/image-4.png)
 
 ![Alt text](./readmeImages/image-5.png)
 
 ![Alt text](./readmeImages/image-1.png)
+
+## <a id="contato"></a>📧 Contato
+
+Se você tiver alguma dúvida ou sugestão em relação a este projeto, entre em contato comigo pelo [Linkedin](https://www.linkedin.com/in/pedro-talma-toledo/)
